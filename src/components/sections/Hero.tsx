@@ -78,7 +78,7 @@ export default function Hero() {
             className="relative h-full w-full overflow-hidden rounded-[20px] shadow-soft-lg"
           >
             <Image
-              src="https://images.unsplash.com/photo-1511920170033-f8396924c10b?w=1200&q=90&auto=format&fit=crop"
+              src="https://images.unsplash.com/photo-1760175445000-0e01e193d1cd?q=80&w=1170&auto=format&fit=crop"
               alt="Premium latte art in a ceramic mug with roasted coffee beans on a wooden table"
               fill
               priority

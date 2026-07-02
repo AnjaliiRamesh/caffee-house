@@ -22,7 +22,7 @@ export const TREATS = [
     description: "Rich dark chocolate with a moist, tender crumb.",
     price: "$2.75",
     image:
-      "https://images.unsplash.com/photo-1607958996333-41aef7caef86?w=800&q=90&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1611614010348-7df489604fe3?q=90&w=800&auto=format&fit=crop",
   },
   {
     name: "Butter Croissant",
